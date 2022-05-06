@@ -27,7 +27,7 @@ export default {
 @import '../style/variables.scss';
 .down-footer {
     background: $bgGrigio;
-    height: 145px;
+    height: 90px;
     .container {
         height: 100%;
         .socials {

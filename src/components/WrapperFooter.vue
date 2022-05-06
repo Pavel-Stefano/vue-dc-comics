@@ -89,7 +89,7 @@ export default {
         padding: 0;
         align-items: flex-start;
         .right {
-            padding: 70px 0;
+            padding: 35px 0;
             display: flex;
             gap: 50px;
             h3 {
@@ -111,12 +111,12 @@ export default {
 }
 
 .wrapper-image {
-    width: 40%;
+    width: 50%;
 }
 
 .wrapper-image img{
     position: relative;
-    top: -105px;
+    top: -90px;
     width: 110%;
 }
 

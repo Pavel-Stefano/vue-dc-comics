@@ -32,7 +32,7 @@ export default {
 @import '../style/variables.scss';
 
 .wrapper-footer {
-    height: 390px;
+    height: 360px;
     background-image: url('../assets/images/footer-bg.jpg');
     background-size: cover;
     overflow: hidden;
